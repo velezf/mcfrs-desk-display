@@ -1,0 +1,9 @@
+# Local config with Wi-Fi credentials and server address. Never commit.
+config.h
+
+# PlatformIO
+.pio/
+.vscode/
+
+# Claude Code worktrees (scoped, not all of .claude/)
+.claude/worktrees/
